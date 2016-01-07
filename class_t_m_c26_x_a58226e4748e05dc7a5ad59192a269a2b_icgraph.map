@@ -1,0 +1,3 @@
+<map id="TMC26X::setMicrosteps" name="TMC26X::setMicrosteps">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#a7aac5b1dc10be8254a153bb8d58f261a" title="configures the TMC26X stepper driver. Before you called this function the stepper driver is in nonfun..." alt="" coords="217,5,315,31"/>
+</map>

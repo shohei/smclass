@@ -1,0 +1,5 @@
+<map id="clock_time" name="clock_time">
+<area shape="rect" id="node2" href="$group__timer.html#ga6614d96fdfcd95c95ec6e6f63071ff51" title="timer_set" alt="" coords="151,5,227,31"/>
+<area shape="rect" id="node3" href="$group__timer.html#gacb807bd57e5489b386b876af5c1f163a" title="timer_restart" alt="" coords="141,55,237,80"/>
+<area shape="rect" id="node4" href="$group__timer.html#ga6d71dececfce707c668e6257aad5906e" title="timer_expired" alt="" coords="138,104,240,129"/>
+</map>

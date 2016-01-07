@@ -1,0 +1,6 @@
+<map id="TestResult::addResult" name="TestResult::addResult">
+<area shape="rect" id="node2" href="$class_test_case.html#a74cb00b26458b6c7d0112be42ad64e73" title="TestCase::getSuccessesCount" alt="" coords="204,5,407,31"/>
+<area shape="rect" id="node3" href="$class_test_case.html#a43285ac898d1639afeb84bc965a0c171" title="TestCase::getErrorsCount" alt="" coords="218,55,393,80"/>
+<area shape="rect" id="node4" href="$class_test_case.html#a9f42dc0e26139c617a1bbe5282672a85" title="TestCase::getFailuresCount" alt="" coords="213,104,399,129"/>
+<area shape="rect" id="node5" href="$class_test_case.html#a818f27be9bcd874bf05d3d630beda9f9" title="TestCase::getTestsCount" alt="" coords="221,153,391,179"/>
+</map>

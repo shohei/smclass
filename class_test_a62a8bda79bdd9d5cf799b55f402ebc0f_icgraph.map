@@ -1,0 +1,6 @@
+<map id="Test::getNext" name="Test::getNext">
+<area shape="rect" id="node2" href="$class_test_case.html#a08f1650716bd8ae05efe1331e4a900f5" title="TestCase::addTest" alt="" coords="154,5,285,31"/>
+<area shape="rect" id="node3" href="$class_test_case.html#afde86670a59aa2ac4a12ea874a110cc8" title="TestCase::getTests" alt="" coords="152,55,286,80"/>
+<area shape="rect" id="node4" href="$class_test_case.html#a43e015d91c954b66e13b4e15189b0fec" title="TestCase::run" alt="" coords="168,104,271,129"/>
+<area shape="rect" id="node5" href="$class_test_runner.html#ae935bfb6bae582c886da9060e2187dc3" title="TestRunner::run" alt="" coords="334,104,451,129"/>
+</map>

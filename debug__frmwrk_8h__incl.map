@@ -1,0 +1,4 @@
+<map id="libs/LPC17xx/LPC17xxLib/inc/debug_frmwrk.h" name="libs/LPC17xx/LPC17xxLib/inc/debug_frmwrk.h">
+<area shape="rect" id="node2" href="$lpc17xx__uart_8h.html" title="Contains all macro definitions and function prototypes support for UART firmware library on LPC17xx..." alt="" coords="51,92,159,117"/>
+<area shape="rect" id="node4" href="$lpc__types_8h.html" title="Contains the NXP ABL typedefs for C standard types. It is intended to be used in ISO C conforming dev..." alt="" coords="116,165,205,191"/>
+</map>

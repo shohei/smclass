@@ -1,0 +1,16 @@
+<map id="libs/Network/uip" name="libs/Network/uip">
+<area shape="rect" id="node2" href="dir_e591c169e268cb796cda94c5ed8e5780.html" title="dhcpc" alt="" coords="528,61,600,109"/>
+<area shape="rect" id="node7" href="dir_05b37980aa8784b2569dc57b62047b16.html" title="uip" alt="" coords="240,157,312,205"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000013_000018.html" title="5" alt="" coords="328,168,336,182"/>
+<area shape="rect" id="node3" href="dir_2537738d8598def0e74acc6a6ddea6fc.html" title="lib" alt="" coords="432,61,504,109"/>
+<area shape="rect" id="node4" href="dir_fbd78dd6922ccf4a785d4786126e954c.html" title="plan9" alt="" coords="336,61,408,109"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000015_000018.html" title="2" alt="" coords="315,144,322,157"/>
+<area shape="rect" id="node5" href="dir_f3407953528c2f7ca79b8f0caced578c.html" title="sftp" alt="" coords="240,61,312,109"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000016_000018.html" title="2" alt="" coords="281,132,288,146"/>
+<area shape="rect" id="node6" href="dir_9dfaf971baa4eb22e42ce3c66ffa4d15.html" title="telnetd" alt="" coords="144,61,216,109"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000017_000018.html" title="2" alt="" coords="242,132,249,145"/>
+<area shape="rect" id="node8" href="dir_4f291da122d86a287acf6934115bf133.html" title="webserver" alt="" coords="37,61,120,109"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000019_000018.html" title="3" alt="" coords="223,141,230,154"/>
+<area shape="rect" id="clust2" href="dir_262da4fb48169f8055f6569fd1069b15.html" alt="" coords="27,51,707,216"/>
+<area shape="rect" id="clust1" href="dir_2d773acc91cd8d139d3bbc233190124c.html" title="Network" alt="" coords="16,16,717,227"/>
+</map>

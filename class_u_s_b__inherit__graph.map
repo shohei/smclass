@@ -1,0 +1,9 @@
+<map id="USB" name="USB">
+<area shape="rect" id="node2" href="$class_u_s_b_device.html" title="USBDevice" alt="" coords="209,225,298,251"/>
+<area shape="rect" id="node3" href="$class_u_s_b_h_a_l.html" title="USBHAL" alt="" coords="216,152,291,177"/>
+<area shape="rect" id="node4" href="$class_u_s_b___state___receiver.html" title="USB_State_Receiver" alt="" coords="5,79,153,104"/>
+<area shape="rect" id="node5" href="$class_u_s_b___frame___receiver.html" title="USB_Frame_Receiver" alt="" coords="176,79,331,104"/>
+<area shape="rect" id="node6" href="$class_u_s_b___endpoint___receiver.html" title="USB_Endpoint_Receiver" alt="" coords="355,79,523,104"/>
+<area shape="rect" id="node7" href="$class_u_s_b___class___receiver.html" title="USB_Class_Receiver" alt="" coords="364,5,514,31"/>
+<area shape="rect" id="node8" href="$class_module.html" title="Module" alt="" coords="322,225,388,251"/>
+</map>

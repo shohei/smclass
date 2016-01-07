@@ -1,0 +1,5 @@
+<map id="TempSensor" name="TempSensor">
+<area shape="rect" id="node2" href="$class_a_d8495.html" title="AD8495" alt="" coords="5,79,75,104"/>
+<area shape="rect" id="node3" href="$class_max31855.html" title="Max31855" alt="" coords="98,79,182,104"/>
+<area shape="rect" id="node4" href="$class_thermistor.html" title="Thermistor" alt="" coords="206,79,291,104"/>
+</map>

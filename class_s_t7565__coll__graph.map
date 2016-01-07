@@ -1,0 +1,6 @@
+<map id="ST7565" name="ST7565">
+<area shape="rect" id="node2" href="$class_lcd_base.html" title="LcdBase" alt="" coords="47,5,120,31"/>
+<area shape="rect" id="node3" href="$class_panel.html" title="Panel" alt="" coords="136,92,191,117"/>
+<area shape="rect" id="node4" href="$class_module.html" title="Module" alt="" coords="159,5,224,31"/>
+<area shape="rect" id="node5" href="$class_panel_screen.html" title="PanelScreen" alt="" coords="248,5,346,31"/>
+</map>

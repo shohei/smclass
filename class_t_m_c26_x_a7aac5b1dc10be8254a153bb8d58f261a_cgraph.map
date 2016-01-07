@@ -1,0 +1,7 @@
+<map id="TMC26X::init" name="TMC26X::init">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#aebba9a076143d80a4d13aa338cdda3eb" title="Sets and configure the classical Constant Off Timer Chopper. " alt="" coords="165,5,365,44"/>
+<area shape="rect" id="node3" href="$class_t_m_c26_x.html#a4854c73d8d706c3bd6c7689df196ddf3" title="Sets and configures with spread cycle chopper. " alt="" coords="152,68,378,93"/>
+<area shape="rect" id="node4" href="$class_t_m_c26_x.html#a81cb4581200de73008ea06bd4c6a0928" title="enables or disables the motor driver bridges. If disabled the motor can run freely. If enabled not. " alt="" coords="191,117,339,143"/>
+<area shape="rect" id="node5" href="$class_t_m_c26_x.html#a58226e4748e05dc7a5ad59192a269a2b" title="Set the number of microsteps in 2^i values (rounded) up to 256. " alt="" coords="183,167,347,192"/>
+<area shape="rect" id="node6" href="$class_t_m_c26_x.html#a88fdd64c8bc1a58634239ec8949dcdac" title="set the StallGuard threshold in order to get sensible StallGuard readings. " alt="" coords="154,216,376,241"/>
+</map>

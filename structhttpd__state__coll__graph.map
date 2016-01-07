@@ -1,0 +1,6 @@
+<map id="httpd_state" name="httpd_state">
+<area shape="rect" id="node2" href="$structpt.html" title="pt" alt="" coords="5,5,44,31"/>
+<area shape="rect" id="node4" href="$structpsock.html" title="psock" alt="" coords="73,92,129,117"/>
+<area shape="rect" id="node3" href="$structhttpd__fs__file.html" title="httpd_fs_file" alt="" coords="153,92,246,117"/>
+<area shape="rect" id="node5" href="$structpsock__buf.html" title="psock_buf" alt="" coords="88,5,170,31"/>
+</map>

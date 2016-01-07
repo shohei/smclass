@@ -1,0 +1,11 @@
+<map id="DefaultTestPrinter::print" name="DefaultTestPrinter::print">
+<area shape="rect" id="node2" href="$class_test_result.html#a40834af676f6dd4c41ab8132b83e5517" title="TestResult::getTestCases" alt="" coords="196,5,368,31"/>
+<area shape="rect" id="node3" href="$class_test_result.html#a58f5741eacd6ba77d4ca5e0866d38c8a" title="TestResult::getTestCaseCount" alt="" coords="182,55,382,80"/>
+<area shape="rect" id="node4" href="$class_test_result.html#a1d365971eb32d9ddb8bf82b1afb85ce3" title="TestResult::getTestCaseRan\lCount" alt="" coords="187,104,377,143"/>
+<area shape="rect" id="node5" href="$class_test_case.html#a59148156a6fe941b1209eb685b18901f" title="TestCase::ran" alt="" coords="230,167,334,192"/>
+<area shape="rect" id="node6" href="$class_test_case.html#a03bf087ce16a1948cfb93eb50669afc6" title="TestCase::getName" alt="" coords="213,216,351,241"/>
+<area shape="rect" id="node7" href="$class_test_case.html#a9f42dc0e26139c617a1bbe5282672a85" title="TestCase::getFailuresCount" alt="" coords="189,265,375,291"/>
+<area shape="rect" id="node8" href="$class_test_case.html#a74cb00b26458b6c7d0112be42ad64e73" title="TestCase::getSuccessesCount" alt="" coords="181,315,384,340"/>
+<area shape="rect" id="node9" href="$class_test_case.html#a43285ac898d1639afeb84bc965a0c171" title="TestCase::getErrorsCount" alt="" coords="195,364,369,389"/>
+<area shape="rect" id="node10" href="$class_test_case.html#ab212767a8208710f0e5134f414b64a85" title="TestCase::getNext" alt="" coords="217,413,347,439"/>
+</map>

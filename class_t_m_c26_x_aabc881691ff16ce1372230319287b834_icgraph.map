@@ -1,0 +1,6 @@
+<map id="TMC26X::readStatus" name="TMC26X::readStatus">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#ad0b86820579765a84e38c498d9fb40b7" title="Reads the current StallGuard value. " alt="" coords="460,5,667,44"/>
+<area shape="rect" id="node3" href="$class_t_m_c26_x.html#acc4b20fdfa743bfc97a4f814bb3f8c44" title="Prints out all the information that can be found in the last status read out &#45; it does not force a st..." alt="" coords="715,69,868,95"/>
+<area shape="rect" id="node4" href="$class_t_m_c26_x.html#abaebe7960b3c4ae956c2899f7e5567e2" title="Reads the current current setting value as fraction of the maximum current Returns values between 0 a..." alt="" coords="199,120,412,145"/>
+<area shape="rect" id="node5" href="$class_t_m_c26_x.html#acad030e32decfcd1afdb3a496f87d519" title="Reads the current current setting value and recalculates the absolute current in mA (1A would be 1000..." alt="" coords="465,120,662,145"/>
+</map>

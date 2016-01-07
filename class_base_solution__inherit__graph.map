@@ -1,0 +1,10 @@
+<map id="BaseSolution" name="BaseSolution">
+<area shape="rect" id="node2" href="$class_cartesian_solution.html" title="CartesianSolution" alt="" coords="182,5,308,31"/>
+<area shape="rect" id="node3" href="$class_core_x_z_solution.html" title="CoreXZSolution" alt="" coords="187,55,303,80"/>
+<area shape="rect" id="node4" href="$class_experimental_delta_solution.html" title="ExperimentalDeltaSolution" alt="" coords="156,104,334,129"/>
+<area shape="rect" id="node5" href="$class_h_bot_solution.html" title="HBotSolution" alt="" coords="195,153,295,179"/>
+<area shape="rect" id="node6" href="$class_linear_delta_solution.html" title="LinearDeltaSolution" alt="" coords="176,203,314,228"/>
+<area shape="rect" id="node7" href="$class_morgan_s_c_a_r_a_solution.html" title="MorganSCARASolution" alt="" coords="165,252,325,277"/>
+<area shape="rect" id="node8" href="$class_rotatable_cartesian_solution.html" title="RotatableCartesianSolution" alt="" coords="153,301,337,327"/>
+<area shape="rect" id="node9" href="$class_rotatable_delta_solution.html" title="RotatableDeltaSolution" alt="" coords="166,351,324,376"/>
+</map>

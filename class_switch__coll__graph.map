@@ -1,0 +1,6 @@
+<map id="Switch" name="Switch">
+<area shape="rect" id="node2" href="$class_module.html" title="Module" alt="" coords="5,92,70,117"/>
+<area shape="rect" id="node5" href="$class_pwm.html" title="Pwm" alt="" coords="52,167,103,192"/>
+<area shape="rect" id="node3" href="$class_pin.html" title="Pin" alt="" coords="115,92,156,117"/>
+<area shape="rect" id="node4" href="$struct_l_p_c___g_p_i_o___type_def.html" title="LPC_GPIO_TypeDef" alt="" coords="63,5,208,31"/>
+</map>
