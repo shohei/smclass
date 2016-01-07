@@ -1,0 +1,6 @@
+<map id="TestCase::getFailuresCount" name="TestCase::getFailuresCount">
+<area shape="rect" id="node2" href="$class_default_test_printer.html#a3f7363c873c48dfccd7030b7686b3675" title="DefaultTestPrinter\l::print" alt="" coords="251,5,378,44"/>
+<area shape="rect" id="node3" href="$class_test_result.html#ab1bc019702fc525f2af2aaff288caacc" title="TestResult::addResult" alt="" coords="239,68,390,93"/>
+<area shape="rect" id="node4" href="$class_test_case.html#a43e015d91c954b66e13b4e15189b0fec" title="TestCase::run" alt="" coords="438,68,542,93"/>
+<area shape="rect" id="node5" href="$class_test_runner.html#ae935bfb6bae582c886da9060e2187dc3" title="TestRunner::run" alt="" coords="590,68,706,93"/>
+</map>

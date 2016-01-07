@@ -1,0 +1,4 @@
+<map id="TMC26X::getCurrentCSReading" name="TMC26X::getCurrentCSReading">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#acad030e32decfcd1afdb3a496f87d519" title="Reads the current current setting value and recalculates the absolute current in mA (1A would be 1000..." alt="" coords="266,5,463,31"/>
+<area shape="rect" id="node3" href="$class_t_m_c26_x.html#acc4b20fdfa743bfc97a4f814bb3f8c44" title="Prints out all the information that can be found in the last status read out &#45; it does not force a st..." alt="" coords="511,5,663,31"/>
+</map>

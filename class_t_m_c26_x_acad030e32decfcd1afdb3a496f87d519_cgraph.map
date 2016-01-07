@@ -1,0 +1,4 @@
+<map id="TMC26X::getCoolstepCurrent" name="TMC26X::getCoolstepCurrent">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#abaebe7960b3c4ae956c2899f7e5567e2" title="Reads the current current setting value as fraction of the maximum current Returns values between 0 a..." alt="" coords="250,5,463,31"/>
+<area shape="rect" id="node3" href="$class_t_m_c26_x.html#aabc881691ff16ce1372230319287b834" title="Manually read out the status register This function sends a byte to the motor driver in order to get ..." alt="" coords="511,5,657,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LcdBase" name="LcdBase">
+<area shape="rect" id="node2" href="$class_panel.html" title="Panel" alt="" coords="86,92,142,117"/>
+<area shape="rect" id="node3" href="$class_module.html" title="Module" alt="" coords="109,5,174,31"/>
+<area shape="rect" id="node4" href="$class_panel_screen.html" title="PanelScreen" alt="" coords="198,5,296,31"/>
+</map>

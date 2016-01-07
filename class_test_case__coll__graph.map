@@ -1,0 +1,6 @@
+<map id="TestCase" name="TestCase">
+<area shape="rect" id="node2" href="$class_test.html" title="Test" alt="" coords="289,193,334,219"/>
+<area shape="rect" id="node5" href="$class_test_result.html" title="TestResult" alt="" coords="16,193,100,219"/>
+<area shape="rect" id="node3" href="$class_test_part_result.html" title="TestPartResult" alt="" coords="383,280,491,305"/>
+<area shape="rect" id="node4" href="$class_simple_string.html" title="SimpleString" alt="" coords="315,5,412,31"/>
+</map>

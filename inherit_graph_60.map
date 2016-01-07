@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_leveling_strategy.html" title="LevelingStrategy" alt="" coords="5,55,126,80"/>
+<area shape="rect" id="node2" href="$class_delta_calibration_strategy.html" title="DeltaCalibrationStrategy" alt="" coords="174,5,340,31"/>
+<area shape="rect" id="node3" href="$class_three_point_strategy.html" title="ThreePointStrategy" alt="" coords="189,55,325,80"/>
+<area shape="rect" id="node4" href="$class_z_grid_strategy.html" title="ZGridStrategy" alt="" coords="205,104,309,129"/>
+</map>

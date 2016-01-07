@@ -1,0 +1,6 @@
+<map id="LPC17XX_Ethernet" name="LPC17XX_Ethernet">
+<area shape="rect" id="node2" href="$class_module.html" title="Module" alt="" coords="5,155,70,180"/>
+<area shape="rect" id="node3" href="$class_network_interface.html" title="NetworkInterface" alt="" coords="94,155,216,180"/>
+<area shape="rect" id="node4" href="$class_encapsulator.html" title="Encapsulator" alt="" coords="106,80,205,105"/>
+<area shape="rect" id="node5" href="$class_encapsulated.html" title="Encapsulated" alt="" coords="104,5,206,31"/>
+</map>

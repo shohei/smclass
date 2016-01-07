@@ -1,0 +1,5 @@
+<map id="USBCDC" name="USBCDC">
+<area shape="rect" id="node4" href="$class_u_s_b_serial.html" title="USBSerial" alt="" coords="48,225,131,251"/>
+<area shape="rect" id="node2" href="$class_u_s_b___endpoint___receiver.html" title="USB_Endpoint_Receiver" alt="" coords="5,79,174,104"/>
+<area shape="rect" id="node3" href="$class_u_s_b___class___receiver.html" title="USB_Class_Receiver" alt="" coords="15,5,165,31"/>
+</map>

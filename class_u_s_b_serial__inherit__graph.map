@@ -1,0 +1,8 @@
+<map id="USBSerial" name="USBSerial">
+<area shape="rect" id="node2" href="$class_u_s_b_c_d_c.html" title="USBCDC" alt="" coords="51,152,129,177"/>
+<area shape="rect" id="node3" href="$class_u_s_b___endpoint___receiver.html" title="USB_Endpoint_Receiver" alt="" coords="5,79,174,104"/>
+<area shape="rect" id="node4" href="$class_u_s_b___class___receiver.html" title="USB_Class_Receiver" alt="" coords="15,5,165,31"/>
+<area shape="rect" id="node5" href="$class_u_s_b_serial___receiver.html" title="USBSerial_Receiver" alt="" coords="153,152,296,177"/>
+<area shape="rect" id="node6" href="$class_module.html" title="Module" alt="" coords="320,152,385,177"/>
+<area shape="rect" id="node7" href="$class_stream_output.html" title="StreamOutput" alt="" coords="410,152,514,177"/>
+</map>

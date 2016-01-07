@@ -1,0 +1,6 @@
+<map id="USBMSD" name="USBMSD">
+<area shape="rect" id="node2" href="$class_u_s_b___state___receiver.html" title="USB_State_Receiver" alt="" coords="5,79,153,104"/>
+<area shape="rect" id="node3" href="$class_u_s_b___endpoint___receiver.html" title="USB_Endpoint_Receiver" alt="" coords="177,79,346,104"/>
+<area shape="rect" id="node4" href="$class_u_s_b___class___receiver.html" title="USB_Class_Receiver" alt="" coords="187,5,336,31"/>
+<area shape="rect" id="node5" href="$class_module.html" title="Module" alt="" coords="370,79,436,104"/>
+</map>

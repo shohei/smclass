@@ -1,0 +1,3 @@
+<map id="TMC26X::getMicrosteps" name="TMC26X::getMicrosteps">
+<area shape="rect" id="node2" href="$class_t_m_c26_x.html#acc4b20fdfa743bfc97a4f814bb3f8c44" title="Prints out all the information that can be found in the last status read out &#45; it does not force a st..." alt="" coords="218,5,370,31"/>
+</map>

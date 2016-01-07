@@ -1,0 +1,18 @@
+<map id="Kernel" name="Kernel">
+<area shape="rect" id="node2" href="$class_config.html" title="Config" alt="" coords="331,105,391,130"/>
+<area shape="rect" id="node3" href="$class_module.html" title="Module" alt="" coords="54,141,119,166"/>
+<area shape="rect" id="node7" href="$class_slow_ticker.html" title="SlowTicker" alt="" coords="318,154,404,179"/>
+<area shape="rect" id="node8" href="$class_gcode_dispatch.html" title="GcodeDispatch" alt="" coords="305,203,417,229"/>
+<area shape="rect" id="node9" href="$class_conveyor.html" title="Conveyor" alt="" coords="322,6,400,31"/>
+<area shape="rect" id="node10" href="$class_stepper.html" title="Stepper" alt="" coords="327,55,395,81"/>
+<area shape="rect" id="node12" href="$class_robot.html" title="Robot" alt="" coords="332,253,389,278"/>
+<area shape="rect" id="node14" href="$class_serial_console.html" title="SerialConsole" alt="" coords="309,351,413,377"/>
+<area shape="rect" id="node4" href="$class_stream_output_pool.html" title="StreamOutputPool" alt="" coords="295,673,426,698"/>
+<area shape="rect" id="node5" href="$class_stream_output.html" title="StreamOutput" alt="" coords="34,423,138,449"/>
+<area shape="rect" id="node6" href="$class_null_stream_output.html" title="NullStreamOutput" alt="" coords="297,401,424,426"/>
+<area shape="rect" id="node11" href="$class_planner.html" title="Planner" alt="" coords="327,302,394,327"/>
+<area shape="rect" id="node13" href="$class_base_solution.html" title="BaseSolution" alt="" coords="36,274,136,299"/>
+<area shape="rect" id="node15" href="$class_ring_buffer.html" title="RingBuffer\&lt; char, 256 \&gt;" alt="" coords="5,323,167,349"/>
+<area shape="rect" id="node17" href="$class_adc.html" title="Adc" alt="" coords="339,537,383,562"/>
+<area shape="rect" id="node18" href="$class_step_ticker.html" title="StepTicker" alt="" coords="319,623,403,649"/>
+</map>

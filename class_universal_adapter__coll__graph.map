@@ -1,0 +1,6 @@
+<map id="UniversalAdapter" name="UniversalAdapter">
+<area shape="rect" id="node2" href="$class_lcd_base.html" title="LcdBase" alt="" coords="75,5,148,31"/>
+<area shape="rect" id="node3" href="$class_panel.html" title="Panel" alt="" coords="171,92,227,117"/>
+<area shape="rect" id="node4" href="$class_module.html" title="Module" alt="" coords="187,5,252,31"/>
+<area shape="rect" id="node5" href="$class_panel_screen.html" title="PanelScreen" alt="" coords="276,5,373,31"/>
+</map>

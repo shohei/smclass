@@ -1,0 +1,4 @@
+<map id="Tool" name="Tool">
+<area shape="rect" id="node3" href="$class_extruder.html" title="Extruder" alt="" coords="5,152,77,177"/>
+<area shape="rect" id="node2" href="$class_module.html" title="Module" alt="" coords="9,5,74,31"/>
+</map>
